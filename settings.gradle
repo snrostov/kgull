@@ -1,0 +1,3 @@
+rootProject.name = 'kgull'
+
+include 'kgull-jvm', 'kgull-js'
